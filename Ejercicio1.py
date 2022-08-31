@@ -7,6 +7,8 @@
 #4 Insertar un control Button.
 #5 Asignar un texto a text.
 #6 Asignar una función a command.
+
+
 #7 Validar que el entry contenga un valor mayor a 0 y menor o igual a 9999999.
 
 import tkinter as tk
